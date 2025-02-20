@@ -1,0 +1,8 @@
+{
+    "svg.preview.autoOpen": true,
+    "svg.preview.boundingBox": true,
+    "svg.preview.transparencyGrid": true,
+    "svg.completion.emmet": true,
+    "svg.completion.showAdvanced": true,
+    "svg.completion.showDeprecated": true
+}
